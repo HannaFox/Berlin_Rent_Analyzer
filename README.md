@@ -17,5 +17,4 @@ Web scrapped information from https://www.immobilienscout24.de/
 10.03.2023: 7min presentation (+5min Q&A)  
 
 ## Credentials:
-Final Ironhack Project <3  
-by Ahmet and Hanna
+Collaboration project of Ahmet and Hanna
